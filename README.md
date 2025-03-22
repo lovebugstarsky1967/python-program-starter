@@ -1,5 +1,3 @@
-# python-program-starter
-Starter for Python App
 Python Programm Starter
 GitHub-Beschreibung
 Python Programm Starter
